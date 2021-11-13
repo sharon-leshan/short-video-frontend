@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+[![short-video.png](https://i.postimg.cc/XJ1mLWct/short-video.png)](https://short-video-frontend.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e550cea1-85ed-4ae9-b4af-58cf13f02423/deploy-status)](https://app.netlify.com/sites/short-video-frontend/deploys)
 
-## Available Scripts
 
-In the project directory, you can run:
+ 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<fieldset style="color: green">
+  <legend>
+    <strong> Top technologies used in this project</strong>
+  </legend>
+ <details>
+  <summary>Javascript</summary>
+  <ul>
+    <li>React -Frontend</li>
+    <li>Gatsby -Static Site Generator</li>
+  </ul>
+  </details>
+</fieldset>
 
-### `yarn start`
+### 🏆 My Trophies
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sharon-leshan&theme=juicyfresh&no-bg=true)](https://github.com/sharon-leshan/agency-site)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Github Stats
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![sharon-leshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon-leshan&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-### `yarn test`
+### Github extra pins
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sharon-leshan&repo=agency-site&theme=dark&title_color=009933)](https://github.com/sharon-leshan/agency-site&show_owner=true&count_private=true)
 
-### `yarn build`
+### Compact language card layout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon-leshan&layout=compact&theme=dark&title_color=009933)](https://github.com/sharon-leshan/agency-site)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Wakatime Week Stats
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Leshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazyleshan&theme=dark&title_color=009933)](https://github.com/sharon-leshan/sharon-leshan)
 
-### `yarn eject`
+[![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416.svg)](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Profile Visit
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sharon-leshan.agency-site&left_color=green&right_color=red&theme=dark&title_color=009933)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p>
+I know why you are here, star the project.<br />
+Visit the site and leave me a comment.<br />
+Thank you for your time to review my project,<br />
+Regards.<br />
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Image of https://github.com/sharon-leshan/sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
